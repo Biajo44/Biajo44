@@ -44,25 +44,33 @@ Atualmente, estou construindo minha experiência através de projetos próprios,
 Alguns projetos que fazem parte da minha jornada de aprendizado:
 
 🏢 CoworkingHub
+
 Projeto voltado para gerenciamento de um espaço de coworking.
+
 Tecnologias: Python
 
 ---
 
 🌌 Poetry Platform
+
 Projeto web voltado para criação, organização e visualização de poemas.
+
 Tecnologias: HTML • CSS • JavaScript
 
 ---
 
 🧠 Quiz App
+
 Aplicação interativa de perguntas e respostas desenvolvida para praticar lógica de programação e desenvolvimento web.
+
 Tecnologias: HTML • CSS • JavaScript
 
 ---
 
 📄 Currículo Online
+
 Projeto desenvolvido para apresentar informações profissionais de forma simples, organizada e responsiva.
+
 Tecnologias: HTML • CSS
 
 ---
@@ -78,6 +86,7 @@ Também possuo um site desenvolvido para apresentar projetos e conhecer melhor o
 💼 J&B Dev
 
 Faço parte da J&B Dev, uma iniciativa voltada para criação de sites e soluções web.
+
 Nosso objetivo é ajudar empresas, profissionais e empreendedores a construírem uma presença digital mais profissional.
 
 🌐 Site: https://jb-devs-kzpd.vercel.app/
