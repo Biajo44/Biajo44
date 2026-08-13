@@ -8,7 +8,8 @@
 &nbsp;
 <a href="https://jb-devs-kzpd.vercel.app/">
   <img src="https://img.shields.io/badge/J%26B%20Dev-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="J&B Dev">
-</a></div>---
+</a></div>
+---
 
 👋 Olá, eu sou a Joelma!
 
@@ -37,7 +38,8 @@ Atualmente, estou construindo minha experiência através de projetos próprios,
 <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Tailwind_CSS-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python"></div>---
+<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python"></div>
+---
 
 🚀 Projetos
 
