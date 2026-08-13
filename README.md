@@ -20,7 +20,7 @@ Atualmente, estou construindo minha experiência através de projetos próprios,
 
 💻 Sobre mim
 
-- 🌸 Desenvolvedora Front-End em formação
+- 🌸 Desenvolvedora em formação
 - 💻 Apaixonada por desenvolvimento web
 - 🎨 Interesse em interfaces modernas e responsivas
 - 🚀 Sempre criando e estudando novos projetos
@@ -44,41 +44,25 @@ Atualmente, estou construindo minha experiência através de projetos próprios,
 Alguns projetos que fazem parte da minha jornada de aprendizado:
 
 🏢 CoworkingHub
-
 Projeto voltado para gerenciamento de um espaço de coworking.
-
 Tecnologias: Python
 
 ---
 
-🐾 PDV Pet Shop
-
-Sistema de ponto de venda desenvolvido como projeto de estudo, com funcionalidades para cadastro, consulta e gerenciamento de produtos.
-
-Tecnologias: Python • SQLite • CustomTkinter
-
----
-
 🌌 Poetry Platform
-
 Projeto web voltado para criação, organização e visualização de poemas.
-
 Tecnologias: HTML • CSS • JavaScript
 
 ---
 
 🧠 Quiz App
-
 Aplicação interativa de perguntas e respostas desenvolvida para praticar lógica de programação e desenvolvimento web.
-
 Tecnologias: HTML • CSS • JavaScript
 
 ---
 
 📄 Currículo Online
-
 Projeto desenvolvido para apresentar informações profissionais de forma simples, organizada e responsiva.
-
 Tecnologias: HTML • CSS
 
 ---
@@ -94,7 +78,6 @@ Também possuo um site desenvolvido para apresentar projetos e conhecer melhor o
 💼 J&B Dev
 
 Faço parte da J&B Dev, uma iniciativa voltada para criação de sites e soluções web.
-
 Nosso objetivo é ajudar empresas, profissionais e empreendedores a construírem uma presença digital mais profissional.
 
 🌐 Site: https://jb-devs-kzpd.vercel.app/
@@ -127,10 +110,6 @@ Cada projeto é uma oportunidade de colocar o conhecimento em prática, aprender
 
 🌷 Vamos nos conectar?
 
-<div align="center"><a href="https://github.com/biajo44">
-  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a><a href="https://jb-devs-kzpd.vercel.app/">
-  <img src="https://img.shields.io/badge/J%26B%20Dev-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="J&B Dev">
-</a></div><br><div align="center">✨ Aprendendo, criando e evoluindo todos os dias. ✨
+<div align="center">✨ Aprendendo, criando e evoluindo todos os dias. ✨
 
 </div>
