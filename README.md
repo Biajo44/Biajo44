@@ -107,15 +107,10 @@ Minha jornada na tecnologia é baseada em:
 
 📚 Estudar → 💻 Praticar → 🚀 Criar → 📈 Evoluir
 
+
 Cada projeto é uma oportunidade de colocar o conhecimento em prática, aprender com os desafios e construir algo melhor.
 
 ---
-
-📊 GitHub
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=biajo44&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" alt="GitHub Stats"><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biajo44&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Top Languages"></div>---
 
 🌷 Vamos nos conectar?
 
