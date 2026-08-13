@@ -1,6 +1,6 @@
 <div align="center">🌸 Joelma Dias
 
-💻 Desenvolvedora Front-End
+💻 Desenvolvedora
 
 <img src="banner.jpeg" width="100%" alt="Joelma Dias - Desenvolvedora"><br><a href="https://github.com/biajo44">
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -12,10 +12,8 @@
 
 👋 Olá, eu sou a Joelma!
 
-Sou desenvolvedora Front-End em formação, apaixonada por tecnologia, desenvolvimento web e criação de interfaces.
-
+Sou desenvolvedora em formação, apaixonada por tecnologia, desenvolvimento web e criação de interfaces.
 Gosto de transformar ideias em projetos reais, buscando sempre melhorar minhas habilidades e aprender novas tecnologias durante cada projeto.
-
 Atualmente, estou construindo minha experiência através de projetos próprios, estudos e experiências práticas.
 
 ---
