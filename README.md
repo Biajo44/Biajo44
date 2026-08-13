@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora
 
-<img src="banner.png" width="100%" alt="Joelma Dias"><br>""GitHub" (https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/biajo44)
+<img src="banner.jpeg" width="100%" alt="Joelma Dias"><br>""GitHub" (https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/biajo44)
 ""J&B Dev" (https://img.shields.io/badge/J%26B%20Dev-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://jb-devs-kzpd.vercel.app/)
 
 </div>---
