@@ -81,7 +81,9 @@ Também possuo um site desenvolvido para apresentar projetos e conhecer melhor o
 
 <div align="center"><a href="https://jb-devs-kzpd.vercel.app/">
   <img src="https://img.shields.io/badge/🌸%20Conheça%20a%20J%26B%20Dev-FF69B4?style=for-the-badge" alt="Conheça a J&B Dev">
-</a></div>---
+</a></div>
+
+---
 
 💼 J&B Dev
 
@@ -111,8 +113,6 @@ Minha jornada na tecnologia é baseada em:
 Cada projeto é uma oportunidade de colocar o conhecimento em prática, aprender com os desafios e construir algo melhor.
 
 ---
-
-🌷 Vamos nos conectar?
 
 <div align="center">✨ Aprendendo, criando e evoluindo todos os dias. ✨
 
