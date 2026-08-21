@@ -45,14 +45,6 @@ Atualmente, estou construindo minha experiência através de projetos próprios,
 
 Alguns projetos que fazem parte da minha jornada de aprendizado:
 
-🏢 CoworkingHub
-
-Projeto voltado para gerenciamento de um espaço de coworking.
-
-Tecnologias: Python
-
----
-
 🌌 Poetry Platform
 
 Projeto web voltado para criação, organização e visualização de poemas.
@@ -74,16 +66,6 @@ Tecnologias: HTML • CSS • JavaScript
 Projeto desenvolvido para apresentar informações profissionais de forma simples, organizada e responsiva.
 
 Tecnologias: HTML • CSS
-
----
-
-🌐 Meu site
-
-Também possuo um site desenvolvido para apresentar projetos e conhecer melhor o meu trabalho.
-
-<div align="center"><a href="https://jb-devs-kzpd.vercel.app/">
-  <img src="https://img.shields.io/badge/🌸%20Conheça%20a%20J%26B%20Dev-FF69B4?style=for-the-badge" alt="Conheça a J&B Dev">
-</a></div>
 
 ---
 
